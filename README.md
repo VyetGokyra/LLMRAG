@@ -13,7 +13,7 @@ Hệ thống trả lời câu hỏi sử dụng kỹ thuật RAG (Retrieval Augm
 1. Clone repository và tạo môi trường ảo:
 ```bash
 git clone <repository-url>
-cd ms-2024-ai-in-se
+cd LLMRAG
 python -m venv venv
 source venv/bin/activate  # Trên Linux/Mac
 # hoặc
